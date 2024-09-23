@@ -1,4 +1,7 @@
-.jumbotron{
+.jumbotron{ 
     background-image: url(../img/karsten-winegeart-yOwrFVY6JBE-unsplash.jpg);
-    height: 1080px;
+    height: 300px;
+    background-position: center;
 }
+
+
